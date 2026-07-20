@@ -1,6 +1,6 @@
 <div align="center">
 
-# Prashansa Agrawal
+# Prashansa Agrrawal
 
 **Staff Software Engineer · Distributed Systems & AI**
 
