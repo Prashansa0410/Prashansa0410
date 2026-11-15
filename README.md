@@ -25,6 +25,7 @@ Six years at **Visa**, engineering distributed payment platforms, real-time tran
 
 * 💳 **[CrossPay-AI](https://github.com/Prashansa0410/CrossPay-AI)** — SLM-powered cognitive copilot for real-time cross-border payment exception triage, automated ISO 20022 `pacs.028` repair XML synthesis, and multi-corridor regulatory clearing RAG (RBI, Pay.UK, SEPA, NACHA). Fine-tuned DistilBERT achieves **88.89% classification accuracy** with **14.2ms sub-second edge inference**.
   * *Stack:* `Python` · `PyTorch` · `Hugging Face (DistilBERT, FLAN-T5)` · `RAG (all-MiniLM-L6-v2)` · `Streamlit` · `Altair`
+  * *Links:* [Live App 🚀](https://crosspay-ai-copilot.streamlit.app/) · [GitHub Repo ↗](https://github.com/Prashansa0410/CrossPay-AI)
 
 * ⚡ **[Async Order Processing Platform](https://github.com/Prashansa0410/async-order-processing-platform)** — High-throughput Java backend platform exploring non-blocking `CompletableFuture` pipelines, concurrent event sequencing, thread-safe domain models, and resilient microservice architecture.
   * *Stack:* `Java` · `Spring Boot` · `Concurrency` · `Microservices` · `Docker`
